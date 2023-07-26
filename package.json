@@ -1,4 +1,5 @@
 {
+ "homepage": "https://cmbharat.github.io/react-habit-tracker",
   "name": "react-habbit-tracker",
   "version": "0.1.0",
   "private": true,
@@ -19,9 +20,9 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -44,7 +45,6 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://cmbharat.github.io/react-habit-tracker/",
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
