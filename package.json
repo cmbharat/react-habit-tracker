@@ -1,5 +1,6 @@
 {
- "homepage": "https://cmbharat.github.io/react-habit-tracker",
+  
+  "homepage": ".",
   "name": "react-habbit-tracker",
   "version": "0.1.0",
   "private": true,
